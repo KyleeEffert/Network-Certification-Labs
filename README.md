@@ -13,18 +13,25 @@ Afterwards, I started working on my tasks.
   4. Preventing Misuse: Set Jaylan account properties to force a password change and to force the user to change the password periodically thereafter.
 
 1 & 2. Install Language & Change Contrast
-
+<p align="center">
 <img width="50%" height="808" alt="Screenshot 2026-10-02 at 6 00 00 PM" src="https://github.com/user-attachments/assets/1e9dfd6c-b941-42c6-8e91-cda9dfa208a9" />
+</p>
 
+<p align="center">
 <img width="50%" height="798" alt="Screenshot 2026-10-02 at 6 02 11 PM" src="https://github.com/user-attachments/assets/2d984c83-31b5-42c9-8677-59285a043dad" />
+</p>
 
 3. Change Laptop Name
 
+<p align="center">
 <img width="50%" height="798" alt="Screenshot 2026-10-02 at 6 11 55 PM" src="https://github.com/user-attachments/assets/48004afa-9413-4eaa-b72a-1b8de6c6e9ef" />
+</p>
 
-5. Change User Password Properties
+4. Change User Password Properties
 
+<p align="center">
 <img width="50%" height="796" alt="Screenshot 2026-10-02 at 6 16 40 PM" src="https://github.com/user-attachments/assets/63f8d368-aacc-420f-b688-f1a15b0ba1f8" />
+</p>
 
 Notes/Quiz:
   - Feature that assigns configuration rights and privileges to an account: Groups
