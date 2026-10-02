@@ -21,7 +21,7 @@ Afterwards, I started working on my tasks.
 <img width="50%" height="798" alt="Screenshot 2026-10-02 at 6 11 55 PM" src="https://github.com/user-attachments/assets/48004afa-9413-4eaa-b72a-1b8de6c6e9ef" />
 
 4. Change User Password Properties
-<img width="1045" height="796" alt="Screenshot 2026-10-02 at 6 16 40 PM" src="https://github.com/user-attachments/assets/63f8d368-aacc-420f-b688-f1a15b0ba1f8" />
+<img width="50%" height="796" alt="Screenshot 2026-10-02 at 6 16 40 PM" src="https://github.com/user-attachments/assets/63f8d368-aacc-420f-b688-f1a15b0ba1f8" />
 
 Notes/Quiz:
   - Feature that assigns configuration rights and privileges to an account: Groups
