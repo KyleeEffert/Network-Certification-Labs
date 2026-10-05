@@ -7,9 +7,9 @@ Task: Configuring a laptop for a new user (Jaylan), meeting the user's requireme
 Steps 1-12: familiarizing myself to the platform. Logging into "Jaylan's" laptop. 
 
 Afterwards, I started working on my tasks. 
-  1. Install Portuguese (Brazil) language pack (Jaylan)
-  2. Enable high contrast (Jaylan)
-  3. Change the computer's name to LAPTOP10 (Bobby's Computer)
+  1. Install Portuguese (Brazil) language pack (Jaylan).
+  2. Enable high contrast (Jaylan).
+  3. Change the computer's name to LAPTOP10 (Bobby's Computer).
   4. Preventing Misuse: Set Jaylan account properties to force a password change and to force the user to change the password periodically thereafter.
 
 1 & 2. Install Language & Change Contrast
@@ -36,3 +36,33 @@ Afterwards, I started working on my tasks.
 Notes/Quiz:
   - Feature that assigns configuration rights and privileges to an account: Groups
   - Methods of fast access to management interfaces: Right-click START, Press START key and type feature name.
+
+# Lab 2: Manage a Windows Computer
+Tasks:
+  1. Disable device in Windows.
+  2. Enable Windows Remote Desktop.
+
+1. Disable device in Windows.
+   Signed into the Administer account (Bobby), I was able to use the Device Manager and disable the DVD/CD-ROM drives.
+
+<p align="center">
+   <img width="50%" height="794" alt="Screenshot 2026-10-05 at 6 35 17 PM" src="https://github.com/user-attachments/assets/c70d16ec-fd99-406f-a675-4459d55d8f35" />
+</p>
+
+2. Enable Windows Remote Desktop.
+   Only Admins can do certain tasks/changes to the computer. Picture below is on Jaylan's standard user account.
+<p align="center">
+   <img width="50%" height="798" alt="Screenshot 2026-10-05 at 6 30 32 PM" src="https://github.com/user-attachments/assets/f339f4fe-70a7-4c5e-a830-3c3529692520" />
+</p>
+
+   Picture Below is on the Admin's account (Bobby).
+
+<p align="center">
+   <img width="50%" height="803" alt="Screenshot 2026-10-05 at 6 36 40 PM" src="https://github.com/user-attachments/assets/f9d64126-de09-4f23-96f6-f912be8f61eb" />
+</p>
+   
+Notes/Quiz:
+  - Change configuration settings, a prompt is shown requesting admin credentials: User Account Control (UAC). Admin's will see a Yes/No prompt.
+      - Designed to prevent misuse of admin privleges.  
+  - Diver: interface between operating systems and hardware components
+  - Powershell cmdlets and objects can be used for automation--run scripts to complete tasks rather than performing them manually.
