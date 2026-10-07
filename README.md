@@ -76,6 +76,7 @@ Tasks:
   1. In the right corner of the screen, the Window's Defender is enabled. This can be enabled through the Virus & Threat Protection and switching the toggle to on for Real-Time Protection.
 
   2. Through this window, you can run a virus scan that will scan for malicious software (or malware) and will try to block it from running.
+
 <p align="center">
 <img width="50%" height="800" alt="Screenshot 2026-10-06 at 7 56 19 PM" src="https://github.com/user-attachments/assets/838b8a50-d3e4-45a5-8877-83956fd682d3" />
 </p>
