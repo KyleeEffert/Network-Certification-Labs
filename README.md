@@ -66,3 +66,25 @@ Notes/Quiz:
       - Designed to prevent misuse of admin privleges.  
   - Diver: interface between operating systems and hardware components
   - Powershell cmdlets and objects can be used for automation--run scripts to complete tasks rather than performing them manually.
+
+# Lab 3: Secure a Windows Computer
+Tasks:
+  1. Verify that Windows Defender features are enabled
+  2. Run virus scan
+  3. Configure app permissions
+
+  1. In the right corner of the screen, the Window's Defender is enabled. This can be enabled through the Virus & Threat Protection and switching the toggle to on for Real-Time Protection.
+
+  2. Through this window, you can run a virus scan that will scan for malicious software (or malware) and will try to block it from running.
+<p align="center">
+<img width="50%" height="800" alt="Screenshot 2026-10-06 at 7 56 19 PM" src="https://github.com/user-attachments/assets/838b8a50-d3e4-45a5-8877-83956fd682d3" />
+</p>
+
+  3. App permissions:
+       - Admin: (needs to) enable(s) the feature/device for access.
+       - Standard User: choose to turn on/off for their own personal account.
+
+  Notes/Quiz:
+  - Windows Update: mitigates the risk of malicious exploits on the OS.
+  - Authentication: (Supported by Windows) Facial & Fingerprint recognition
+  - Firewall: security software that enforces rules for allowing/denying network connections.
